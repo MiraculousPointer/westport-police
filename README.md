@@ -2,8 +2,6 @@ westport-police
 ===============
 Requested by the Westport, MA Police Department who has agreed to let us open-source the effort.
 
-Demo: http://imediasolutions.github.com/westport-police/webapp/
-
 ## Dependencies
 * Nodejs
 * Grunt
